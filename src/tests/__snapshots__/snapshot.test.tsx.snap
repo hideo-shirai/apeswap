@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Image Button 1`] = `
+<button
+  className="bg-yellow-500 border-yellow-600 hover:bg-yellow-600 active:bg-yellow-700 focus:ring-yellow-300 px-4 py-2 rounded-md text-sm font-medium border-b-2 focus:outline-none focus:ring transition text-white"
+>
+  <img
+    alt="img"
+    src="metamask.svg"
+  />
+</button>
+`;
+
+exports[`Storyshots Button Primary 1`] = `
+<button
+  className="bg-blue-500 border-blue-600 hover:bg-blue-600 active:bg-blue-700 focus:ring-blue-300 px-4 py-2 rounded-md text-sm font-medium border-b-2 focus:outline-none focus:ring transition text-white"
+>
+  Hello World
+</button>
+`;
+
+exports[`Storyshots Button Secondary 1`] = `
+<button
+  className="bg-yellow-500 border-yellow-600 hover:bg-yellow-600 active:bg-yellow-700 focus:ring-yellow-300 px-4 py-2 rounded-md text-sm font-medium border-b-2 focus:outline-none focus:ring transition text-white"
+>
+  Hello World
+</button>
+`;
+
+exports[`Storyshots Card Default 1`] = `
+<div
+  className="p-3 shadow mb-3 rounded-lg border-gray-100 border"
+>
+  Card Content
+</div>
+`;
+
+exports[`Storyshots Header Default 1`] = `
+<div
+  className="sticky shadow-md flex py-6 px-4 justify-between items-center flex-wrap"
+>
+  <a
+    href="/"
+  >
+    <p
+      className="text-3xl font-medium text-gray-400 hover:text-gray-300"
+    >
+      Apeswap Finance Assignment
+    </p>
+  </a>
+  <div>
+    <button
+      className="bg-yellow-500 border-yellow-600 hover:bg-yellow-600 active:bg-yellow-700 focus:ring-yellow-300 px-4 py-2 rounded-md text-sm font-medium border-b-2 focus:outline-none focus:ring transition text-white"
+      onClick={[Function]}
+    >
+      <img
+        alt="img"
+        src="metamask.svg"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Image Default 1`] = `
+<div
+  className="relative overflow-hidden"
+>
+  <img
+    alt="asset"
+    src="https://www.google.com/logos/doodles/2021/thanksgiving-2021-6753651837109145-law.gif"
+  />
+</div>
+`;
+
+exports[`Storyshots Image Owned 1`] = `
+<div
+  className="relative overflow-hidden"
+>
+  <img
+    alt="asset"
+    src="https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-TV.png?w=1600"
+  />
+  <div
+    className="bg-yellow-500 h-32 w-32 absolute transform rotate-45 translate-x-1/2 -translate-y-1/2 top-0 right-0 text-lg font-medium text-white flex"
+  >
+    <span
+      className="mt-auto mx-auto pb-1"
+    >
+      Owned
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Input Address 1`] = `
+<div
+  className="relative inline-block"
+>
+  <input
+    className="pl-7 relative px-3 py-2 rounded-md text-sm font-normal border text-gray-500 focus:border-blue-600 outline-none"
+    defaultValue="12345676890ABCDEF"
+    type="text"
+  />
+  <label
+    className="pointer-events-none absolute inset-0 text-gray-400 font-normal text-sm py-2 pl-3"
+  >
+    0x
+  </label>
+</div>
+`;
+
+exports[`Storyshots Input Default 1`] = `
+<input
+  className="px-3 py-2 rounded-md text-sm font-normal border text-gray-500 focus:border-blue-600 outline-none"
+  defaultValue="Hello World"
+  type="text"
+/>
+`;
+
+exports[`Storyshots Nft Asset Default 1`] = `
+<div
+  className="p-3 shadow mb-3 rounded-lg border-gray-100 border md:flex"
+>
+  <div
+    className="relative overflow-hidden max-w-100 md:w-64 md:flex-grow-0 md:flex-shrink-0"
+  >
+    <img
+      alt="asset"
+      src="https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    />
+    <div
+      className="bg-yellow-500 h-32 w-32 absolute transform rotate-45 translate-x-1/2 -translate-y-1/2 top-0 right-0 text-lg font-medium text-white flex"
+    >
+      <span
+        className="mt-auto mx-auto pb-1"
+      >
+        Owned
+      </span>
+    </div>
+  </div>
+  <div
+    className="mt-3 md:mt-0 md:ml-3 text-gray-700 font-normal text-sm"
+  >
+    <p
+      className="mb-2 font-bold text-lg"
+    >
+      Wallpaper
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+    </p>
+  </div>
+</div>
+`;
